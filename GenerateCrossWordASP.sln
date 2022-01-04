@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateCrossWordASP", "GenerateCrossWordASP\GenerateCrossWordASP.csproj", "{B2746298-2737-4E6A-881E-D62E2DC2647A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2746298-2737-4E6A-881E-D62E2DC2647A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2746298-2737-4E6A-881E-D62E2DC2647A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2746298-2737-4E6A-881E-D62E2DC2647A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2746298-2737-4E6A-881E-D62E2DC2647A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87931242-9A44-4F20-92B7-5E0B9E32664C}
+	EndGlobalSection
+EndGlobal
